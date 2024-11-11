@@ -1,5 +1,5 @@
-//GARV NANDWANA
-//23070123167
+// NAME - DEVANSH CHACHRA
+// PRN - 22070123039
 //Program to illustrate pointers
 #include <iostream>
 using namespace std;
